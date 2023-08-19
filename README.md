@@ -2,6 +2,8 @@
 
 Welcome to the Flan T5 Chatbot! This chatbot uses Flan T5 to have helpful chats with you. It can answer questions, create different types of text, and translate languages
 
+![Images](https://github.com/regmi-saugat/Flan_ChatBot/blob/main/data/imgs/img_demo.png)
+
 ### How to Use
 
 Using the chatbot is super simple. Just start chatting by typing your question or request in the box and then press *Generate*.
